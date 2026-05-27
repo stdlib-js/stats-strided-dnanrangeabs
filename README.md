@@ -50,7 +50,7 @@ The [**range**][range] is defined as the difference between the maximum and mini
 ## Usage
 
 ```javascript
-import dnanrangeabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanrangeabs@esm/index.mjs';
+import dnanrangeabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanrangeabs@v0.0.0-esm/index.mjs';
 ```
 
 #### dnanrangeabs( N, x, strideX )
@@ -154,7 +154,7 @@ var v = dnanrangeabs.ndarray( 4, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dnanrangeabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanrangeabs@esm/index.mjs';
+import dnanrangeabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dnanrangeabs@v0.0.0-esm/index.mjs';
 
 var x;
 var i;
